@@ -229,8 +229,8 @@ h3.share {
 
   #overlay {
     position: absolute;
-    bottom: 96px;
-    left: 555px;
+    bottom: 85px;
+    left: 545px;
     /* display: none; */
     grid-template-columns: auto auto;
     justify-content: space-between;
@@ -246,7 +246,7 @@ h3.share {
   #overlay::after {
     content: '';
     position: absolute;
-    bottom: -5px;
+    bottom: -4px;
     left: 50%;
     width: 0;
     height: 0;
